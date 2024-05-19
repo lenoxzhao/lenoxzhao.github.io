@@ -14,19 +14,5 @@
       <guid>https://lenoxzhao.github.io/authors/john-doe/</guid>
       <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
-    <item>
-      <title>Sam Wilson</title>
-      <link>https://lenoxzhao.github.io/authors/sam-wilson/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lenoxzhao.github.io/authors/sam-wilson/</guid>
-      <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    <item>
-      <title>William Jacob</title>
-      <link>https://lenoxzhao.github.io/authors/william-jacob/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lenoxzhao.github.io/authors/william-jacob/</guid>
-      <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
   </channel>
 </rss>
