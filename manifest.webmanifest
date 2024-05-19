@@ -1,10 +1,10 @@
 {
-  "name": "Hugoplate",
-  "short_name": "Hugoplate",
+  "name": "LenoxBlog",
+  "short_name": "LenoxBlog",
   "lang": "en-us",
   "display": "fullscreen",
   "orientation" : "portrait",
-  "start_url": "/?utm_source=web_app_manifest",
+  "start_url": "https://lenoxzhao.github.io/?utm_source=web_app_manifest",
   "background_color": "#fff",
   "theme_color": "#000",
 
