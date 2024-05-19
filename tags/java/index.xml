@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on LenoxBlog</title>
+    <link>https://lenoxzhao.github.io/tags/java/</link>
+    <description>Recent content in Java on LenoxBlog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lenoxzhao.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>notion</title>
+      <link>https://lenoxzhao.github.io/blog/04-headfirstjava%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://lenoxzhao.github.io/blog/04-headfirstjava%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86/</guid>
+      <description>HeadFirstJAVA知识点整理 数据类型 primitive主数据类型 类型 位数 值域 boolean JAVA虚拟机决定 true/false char 16bits 0~65535 byte 8bits -128~127 short 16bits -32768~32767 int 32bits -2147483648~2147483647 long 64bit float 32bits 范围可变 double 64bits 范围可变 数字的格式化 /** %[argument number][flags][width][.</description>
+    </item>
+  </channel>
+</rss>
